@@ -131,7 +131,6 @@ Use the predefined users in the sidebar to see different outcomes:
 ---
 
 ## Team XYZ CREATORS
----
 
 ### 📄 License
 
