@@ -131,10 +131,10 @@ Use the predefined users in the sidebar to see different outcomes:
 ---
 
 ## 👥 Collaborators
-* **Meet** - Lead Architect & Data Scientist
-* **Vedant** - Backend & Cloud Engineer
-* **Ananya** - Frontend Developer (Streamlit)
-* **Mahima** - Research & Documentation
+* **Meet**
+* **Vedant**
+* **Ananya**
+* **Mahima**
 
 ---
 
